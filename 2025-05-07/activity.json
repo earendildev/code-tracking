@@ -133,9 +133,9 @@
       "averageChangeSize": 6.5
     },
     "scripts (Workspace)": {
-      "totalLinesAdded": 29,
+      "totalLinesAdded": 31,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 13,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\Ken\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -270,6 +270,34 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "scripts (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T12:00:27.243Z",
+            "fileName": "c:\\Users\\Ken\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "scripts (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T12:01:05.421Z",
+            "fileName": "c:\\Users\\Ken\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "scripts (Workspace)",
             "content": {
               "added": [],
