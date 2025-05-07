@@ -1,0 +1,89 @@
+{
+  "date": "2025-05-07",
+  "projects": {
+    "App Idea": {
+      "totalLinesAdded": 24,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\Ken\\AppData\\Roaming\\Void\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-07T11:51:55.328Z",
+            "fileName": "c:\\Users\\Ken\\AppData\\Roaming\\Void\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "App Idea",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T11:51:59.748Z",
+            "fileName": "c:\\Users\\Ken\\AppData\\Roaming\\Void\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "App Idea",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T11:52:56.436Z",
+            "fileName": "c:\\Users\\Ken\\AppData\\Roaming\\Void\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "App Idea",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T11:53:00.848Z",
+            "fileName": "c:\\Users\\Ken\\AppData\\Roaming\\Void\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "App Idea",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "17": 3
+      },
+      "topFiles": [
+        "c:\\Users\\Ken\\AppData\\Roaming\\Void\\User\\settings.json"
+      ],
+      "averageChangeSize": 6.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
